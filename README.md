@@ -47,8 +47,6 @@ Experience the future of Telegram automation today!
 
 #### Watch on Youtube: https://www.youtube.com/watch?v=DpBAr3v3FjA
 
-For any questions, feel free to ask us on Telegram: https://shorturl.at/jH9P9
-
 ### Whats so special about this?
 1. This tool is the first tool, which can scrape more than 10k members at once!
 2. You can also scrape hidden members!
