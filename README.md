@@ -70,3 +70,5 @@ For any questions, feel free to contact us here: https://rb.gy/0uju8i
 16. No coding skills required, noob-friendly!
 
 #### Please ⭐ the repo to support our project
+
+<a href="https://github.comcnsk7392/Telegram-Members-Adder-Scraper-Spammer-Cloner-ManyMore2025"><img alt="Cute Count" src="https://count.getloli.com/get/@tg2025?theme=3d-num" /></a>
