@@ -32,7 +32,7 @@ The telegram member adder has a total of 40 features and tons of dynamic sub-fea
 ![](https://github.com/cnsk7392/Telegram-Members-Adder-Scraper-Spammer-Cloner-ManyMore2025/blob/main/adding.gif)
 - **Message Management:** Copy and send incoming and old messages from any channels/groups/users to your own channels/groups.
   
-![](https://github.com/cnsk7392/Telegram-Members-Adder-Scraper-Spammer-Cloner-ManyMore2025/blob/main/copy_channel.gif)
+  ![](https://github.com/cnsk7392/Telegram-Members-Adder-Scraper-Spammer-Cloner-ManyMore2025/blob/main/copy_channel.gif)
 - **AFK Messaging:** Automatically respond with an AFK message to anyone who contacts you.
 - **Seamless Group Management:** Automatically join or leave any channels/groups with a single click!
 ![](https://github.com/cnsk7392/Telegram-Members-Adder-Scraper-Spammer-Cloner-ManyMore2025/blob/main/Joiner.gif)
