@@ -1,7 +1,7 @@
 # What is Telegram-Member-Adder?
 Telegram member adder is an all in one fully automated tool for Telegram with +40 functions. It is written in Python and very noob-friendly. No coding skills required! Simple to install and easy to use. Updates, new features and support for lifetime!
 ## Add Telegram Members from targeted groups of your choice into your own group!
-### 40 MAIN FUNCTIONS!
+### 43 MAIN FUNCTIONS!
 
 ### GET HERE: https://rb.gy/lo9dvf
 
@@ -42,6 +42,7 @@ The telegram member adder has a total of 40 features and tons of dynamic sub-fea
 - **API Management:** Create your API ID and HASH effortlessly.
 - **Account Health Checks:** Use our Ban-Checker and Spam-Checker to ensure your accounts are valid and ready for action.
 - **Reporting Made Easy:** Report any members, groups, or channels with customizable comments.
+- **Unspam and Unfreeze Accounts:** Remove any limitations from your accounts with ease!
 - **And Much More Coming Soon!**
 **All tasks can be executed by selected accounts or all accounts simultaneously!**
 Experience the future of Telegram automation today!
